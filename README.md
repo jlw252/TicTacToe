@@ -15,5 +15,5 @@ A console-based Tic-Tac-Toe game written in Java, where you compete against an u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tictactoe-java.git
-cd tictactoe-java
+git clone https://github.com/jlw252/TicTacToe.git
+
